@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project data (re-downloadable, don't commit)
+data/raw/
+
+# Editor settings
+.vscode/
